@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp:*)",
+      "Bash(mkdir -p \"E:/WorkStations/Siteler/birincioglu-ticaret/.claude/agents\")",
+      "Bash(cp \"E:/WorkStations/Siteler/birincioglu-ticaret/webforge/agents/\"*.md \"E:/WorkStations/Siteler/birincioglu-ticaret/.claude/agents/\")",
+      "Bash(npx create-next-app@latest bolu-dagi.com --typescript --tailwind --eslint --app --src-dir --no-git --use-npm)",
+      "Bash(npm install:*)",
+      "Bash(npm run:*)",
+      "Bash(npx next:*)",
+      "Bash(start:*)",
+      "Bash(node scripts/generate-images.mjs)",
+      "Bash(wc:*)",
+      "Bash(node scripts/fix-turkish.mjs)",
+      "Bash(xargs sed:*)",
+      "WebSearch",
+      "Bash(git *)"
+    ]
+  }
+}
