@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/fiyatlar/layout,_N_T_/fiyatlar/page,_N_T_/fiyatlar"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/fiyatlar/__PAGE__",
+    "/fiyatlar",
+    "/_index",
+    "/_head"
+  ]
+}

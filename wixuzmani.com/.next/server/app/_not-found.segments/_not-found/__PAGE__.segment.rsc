@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0nuwn7pascvgs.js"],""]
+3:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0ik7p5sk_m_1h.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"className":"mx-auto max-w-3xl px-5 py-24 text-center","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"className":"mt-3 text-4xl lg:text-5xl font-bold text-[var(--emerald-900)] leading-tight","children":"Aradığınız sayfa bulunamadı."}],["$","p",null,{"className":"mt-4 text-[var(--ink-soft)] text-lg","children":"Bağlantı hatalı ya da sayfa kaldırılmış olabilir. Ana sayfaya dönüp aradığınız hizmeti bulabilir ya da doğrudan bize yazabilirsiniz."}],["$","div",null,{"className":"mt-8 flex flex-wrap gap-3 justify-center","children":[["$","$L2",null,{"href":"/","className":"btn-primary","children":"Ana sayfaya dön"}],["$","$L2",null,{"href":"/iletisim","className":"btn-secondary","children":"İletişime geç"}]]}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"UeM6IgNBZsW0LP20BgHEc"}
+5:null
